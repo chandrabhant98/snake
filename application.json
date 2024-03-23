@@ -1,0 +1,10 @@
+{
+  "person": {
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "email": "john.doe@example.com",
+    "isStudent": false,
+    "hobbies": ["reading", "traveling", "photography"]
+  }
+}
